@@ -10,7 +10,36 @@ project 1 - A Random Quote Generator
 /*** 
  * `quotes` array 
 ***/
-
+const quotes = [
+	{
+		quote: 'Character is much better kept than recovered',
+		source: 'Thomas Paine'	
+	},
+	{
+		quote: 'I am an old man and have known a great many troubles, but most of them never happened.',
+		source: 'Mark Twain'
+	},
+	{
+		quote: 'I do not like work, even if another person does it.',
+		source: 'Mark Twain'
+	},
+	{
+		quote: 'I found the key to happiness. Stay away from idiots.',
+		source: 'Morgan Freeman'
+	},
+	{
+		quote: 'Ever tried? Ever failed? No matter. Try again. Fail again. Fail better.',
+		source: 'Samuel Beckett'
+	},
+	{
+		quote: 'Never, never, never give up.',
+		source: 'Winston Churchill'
+	},
+	{
+		quote: "Believe you can and you're halfway there.",
+		source: 'Theodore Roosevelt'		
+	}
+]
 
 
 /***
