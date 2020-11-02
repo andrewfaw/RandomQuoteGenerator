@@ -20,6 +20,11 @@ const quotes = [
 		source: 'Mark Twain'
 	},
 	{
+		quote: "Pipe down kid! Daddy's hung!",
+		source: 'Patrick',
+		citation: 'The Women'
+	},
+	{
 		quote: 'I do not like work, even if another person does it.',
 		source: 'Mark Twain'
 	},
@@ -33,7 +38,8 @@ const quotes = [
 	},
 	{
 		quote: 'Never, never, never give up.',
-		source: 'Winston Churchill'
+		source: 'Winston Churchill',
+		year: '1941'
 	},
 	{
 		quote: "Believe you can and you're halfway there.",
