@@ -12,7 +12,7 @@ project 1 - A Random Quote Generator
 ***/
 const quotes = [
 	{
-		quote: 'Character is much better kept than recovered',
+		quote: 'Character is much better kept than recovered.',
 		source: 'Thomas Paine'	
 	},
 	{
