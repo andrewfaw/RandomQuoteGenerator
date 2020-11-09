@@ -20,7 +20,7 @@ const quotes = [
 		source: 'Mark Twain'
 	},
 	{
-		quote: "Pipe down kid! Daddy's hung!",
+		quote: "Pipe down kid Daddy's hung!",
 		source: 'Patrick',
 		citation: 'The Women'
 	},
