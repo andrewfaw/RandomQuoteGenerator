@@ -20,7 +20,7 @@ const quotes = [
 		source: 'Mark Twain'
 	},
 	{
-		quote: 'Pipe down kid, Daddy is hung!',
+		quote: 'Pipe down kid, Daddy\'s hung!',
 		source: 'Patrick',
 		citation: 'The Women'
 	},
@@ -42,7 +42,7 @@ const quotes = [
 		year: '1941'
 	},
 	{
-		quote: 'Believe you can and you are halfway there.',
+		quote: 'Believe you can and you\'re halfway there.',
 		source: 'Theodore Roosevelt'		
 	}
 ];
